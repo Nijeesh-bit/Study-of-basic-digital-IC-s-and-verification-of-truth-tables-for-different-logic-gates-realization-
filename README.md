@@ -90,9 +90,10 @@ Developed by: Nijeesh NJ
 RegisterNumber: 23010565 
 
 
-Logic symbol & Truthtable
+Truthtable
 
 ![image](https://github.com/Nijeesh-bit/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89188014/c3bd6bf2-8150-4534-97b1-666a54941a7f)
+![image](https://github.com/Nijeesh-bit/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89188014/a1d61fcc-a54c-4183-8ef1-f44b91acc4d3)
 
 RTL realization
 Output:
