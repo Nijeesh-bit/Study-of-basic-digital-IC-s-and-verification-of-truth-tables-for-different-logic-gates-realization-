@@ -1,8 +1,8 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 
-Name: Nijeesh NJ
+### Name: Nijeesh NJ
 
-RegisterNumber: 23010565 
+### RegisterNumber: 23010565 
 
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -89,13 +89,12 @@ xnor(y7,a,b);
 endmodule
 
 
-Truthtable
+## Truthtable
 
 ![image](https://github.com/Nijeesh-bit/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89188014/c3bd6bf2-8150-4534-97b1-666a54941a7f)
 
-RTL realization
+## RTL realization
 Output:
-RTL
 
 ![image](https://github.com/Nijeesh-bit/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/89188014/042617b1-c495-4b71-879b-1666eb25c55d)
 
